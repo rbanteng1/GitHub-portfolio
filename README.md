@@ -3,12 +3,13 @@
 **Location:** Atlanta  
 **Phone:** 872-282-1769  
 **Email:** bantengafatma@yahoo.com  
-**LinkedIn:** [LinkedIn Profile](https://www.linkedin.com)  
-## Profile Summary
+**LinkedIn:** [Rania Fatma Bantenga](https://www.linkedin.com/in/rania-fatma-bantenga-7504b5213/)  
+
+## Summary
 Self-motivated and driven professional with a robust background in data analysis, project management, and strategic planning. Expertise in leveraging data-driven insights to enhance decision-making and operational efficiency. Proven track record in managing and delivering complex projects, collaborating with cross-functional teams, and achieving performance and financial targets. Adept at utilizing analytical tools and methodologies to support business objectives and drive continuous improvement.
 
-- Improved decision-making efficiency by 20% through data-driven insights.
-- Enhanced operational efficiency and increased revenue by implementing strategic initiatives.
+- Improved decision-making efficiency by 20% through data-driven insights
+- Enhanced operational efficiency and increased revenue by implementing strategic initiatives
 
 ## Languages
 - French
@@ -77,26 +78,29 @@ Self-motivated and driven professional with a robust background in data analysis
 ## Education
 
 ### Walsh University, Ohio, United States
-**Online Graduate Certificate in Business Analytics. Business Analytics, SQL, Python.**  
-**May 2024 - Oct 2024 (Expected)**
+**Online Graduate Certificate in Data Analytics**  
+**May 2024 - Oct 2024 (Expected)**  
+- Business Analytics, SQL, Python.
 
 ### ISG Business School, Lyon, France
-**Master of Science in Project Management, Business, and Innovation. Project Management, Business English.**  
-**2021 - 2023**
+**Master of Science in Project Management, Business, and Innovation**  
+**2021 – 2023**  
+- Project Management, Big data, Business English.
 
 ### IAE of Poitiers, Poitiers, France
-**Bachelor’s Degree in Economics and Management. Finance, Statistics, Human Resources.**  
-**2018 - 2021**
+**Bachelor’s Degree in Economics and Management**  
+**2018 – 2021**  
+- Finance, Statistics, Human Resources.
 
 ## Certification
 
 ### Data Analytics Certificate by Google
-Specialized in SQL and Data Analysis  
-**November 2023**
+**November 2023**  
+- SQL, Data Analysis
 
-### Certificate in Financial Management by Disaster Ready
-Specialized in Financial Analysis for non-profit organizations  
-**June 2023**
+### Certificate in Financial Management and Marketing by Disaster Ready
+**June 2023**  
+- Financial Analysis, Strategic Marketing for non-profit organizations
 
 ## Leadership Experience
 
@@ -105,6 +109,5 @@ Specialized in Financial Analysis for non-profit organizations
 **June 2024 – Present**
 
 - Organization Formation: Contribute to the creation and structuring of the organization, defining the objectives and mission of WiCyS West Africa to promote women in the cybersecurity field.
-- Strategy Development: Participate in the development of initial strategies to attract and support women in the cybersecurity sector across West Africa.
 - Program Implementation: Assist in setting up awareness and training programs aimed at encouraging women to pursue careers in cybersecurity.
 - Partnership Building: Seek out and establish connections with potential partners, including universities, tech companies, and government organizations, to support WiCyS initiatives.
