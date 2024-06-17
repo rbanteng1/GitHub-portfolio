@@ -4,8 +4,6 @@
 **Phone:** 872-282-1769  
 **Email:** bantengafatma@yahoo.com  
 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com)  
-**Financial data analytics project:** [https://www.canva.com/design/DAGIDH7QvpE/8GTwpHh0UPEEZNMLXcMoGw/edit](https://www.canva.com/design/DAGIDH7QvpE/8GTwpHh0UPEEZNMLXcMoGw/edit)  
-
 ## Profile Summary
 Self-motivated and driven professional with a robust background in data analysis, project management, and strategic planning. Expertise in leveraging data-driven insights to enhance decision-making and operational efficiency. Proven track record in managing and delivering complex projects, collaborating with cross-functional teams, and achieving performance and financial targets. Adept at utilizing analytical tools and methodologies to support business objectives and drive continuous improvement.
 
